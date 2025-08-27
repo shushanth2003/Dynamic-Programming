@@ -8,3 +8,4 @@
 - When a call **finishes**, its frame is **popped** off the stack.
 - Control returns to the **caller**, and the program continues **step by step** (LIFO order).
 
+![img.png](img.png)
