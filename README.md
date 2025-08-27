@@ -1,7 +1,3 @@
-Got it 👍
-You want **well-structured notes for Dynamic Programming (DP)** in a **`README.md`** format that explains concepts clearly so you can understand them easily.
-
-Here’s a good starter version for your DP notes in `README.md` format:
 
 ````markdown
 # 🧮 Dynamic Programming (DP) Notes
