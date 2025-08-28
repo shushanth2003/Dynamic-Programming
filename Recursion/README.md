@@ -77,4 +77,5 @@ int binarySearch(int arr[], int left, int right, int target) {
     else                                           // search right
         return binarySearch(arr, mid + 1, right, target);
 }
+```
 ![img_3.png](img_3.png)
